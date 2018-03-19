@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to TerriblyUnclever's Blog!
 
-You can use the [editor on GitHub](https://github.com/TerriblyUnclever/TerriblyUnclever.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a 17 year old senior in high school. I will go to Wichita State University in Fall 2018 and will major in Mathematics. To be honest, I'm not entirely sure what I'll blog about, but I'll think of something, surely.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For now, I won't be deleting anymore of the code, as I'll need some of the information in it for future reference.
 
 ### Markdown
 
